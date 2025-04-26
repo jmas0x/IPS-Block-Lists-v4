@@ -4,4 +4,5 @@
     Abusive IPs: Addresses frequently involved in spam activities, port scanning, and other forms of network abuse.
 
 :honey_pot: All data is compiled from independent research and direct logs collected from a privately operated honeypot.
+
 :robot: The lists are updated on a regular basis to ensure accuracy and relevance.
